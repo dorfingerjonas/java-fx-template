@@ -208,4 +208,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# .iml files
+*.iml
+
 # End of https://www.gitignore.io/api/linux,macos,windows,jetbrains,visualstudiocode,java,maven
